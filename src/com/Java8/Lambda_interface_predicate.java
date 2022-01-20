@@ -32,7 +32,7 @@ public static void filtro(List<String> lista, Predicate<String> condicao){
         System.out.println("Toda a lista");
         filtro(lista1, (s)->true);
         
-        System.out.println("Nao imprimir a lista");
+        System.out.println("Não imprimir a lista");
         filtro(lista1, (s)->false);
         
         System.out.println("Lista com mais de 4 caracteres");

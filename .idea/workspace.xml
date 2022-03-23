@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5520a281-3287-4fe0-a409-9948abc07bb9" name="Changes" comment="Java 8 com inclusão do Lambda">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Java8/Lambda_interface_predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java8/Lambda_interface_predicate.java" afterDir="false" />
     </list>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642647989731</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java 8 com inclusão do Lambda">
+      <created>1648044009735</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648044009736</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

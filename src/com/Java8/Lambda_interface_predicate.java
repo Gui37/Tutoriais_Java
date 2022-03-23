@@ -21,7 +21,7 @@ public static void filtro(List<String> lista, Predicate<String> condicao){
             System.out.println(s);
 }
     public static void main (String args []){
-     List <String> lista1 =Arrays.asList(
+     List <String> lista1 =Arrys.asList(
         "Maputo","Pemba","Inhambane",
         "Tete","Gaza","Manica");
         System.out.println("Estados que iniciam com a letra M");
